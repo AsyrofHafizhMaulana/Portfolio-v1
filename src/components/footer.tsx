@@ -7,7 +7,7 @@ const services = [
   'Design Grafis',
 ];
 
-const socialLinks = [
+const socialLinks = [ 
   {
     name: 'WhatsApp',
     href: 'https://wa.me/6281234567890', // ganti dengan nomor WA kamu
